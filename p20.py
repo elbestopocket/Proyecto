@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+#cualquier cosa
 # Cargar los datos desde el archivo CSV
 data = pd.read_csv('datos_salud_publica.csv')
 
